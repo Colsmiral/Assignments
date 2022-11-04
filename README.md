@@ -1,2 +1,1 @@
-colsmiral file
-The folder (Week_Four) contain the Week Four Task
+The folder (Week_Four) contain the Week Four Task.
